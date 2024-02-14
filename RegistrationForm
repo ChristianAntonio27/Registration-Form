@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>Registration Form</h1>
+    </head>
+    <p1>First Name:</p1> <input type="email"><br>
+    <p1>Last Name:</p1> <input type="email"><br>
+    <p1>Nick Name:</p1 ><input type="email"><br>
+    <p1>Email:</p1> <input type="email"><br>
+    <p1>Password:</p1><input type="email"><br>
+    <p1>Date of birth:</p1><input type="date" name="dob" id="dob" max="31-12-9999"required><br>
+    <td>Gender:</td> 
+        <input type ="radio" name ="gender">Male
+        <input type ="radio" name ="gender">Female<Br>
+     <p1>Mobile:</p1> <input type="email"><br>
+     <p1>Address:</p1> 
+        <textarea name="comments" maxlength="1000" cols="25" rows="10"></textarea><br> 
+    <input type="Submit" value="Submit">
+    <input type="Reset" value="Reset">
